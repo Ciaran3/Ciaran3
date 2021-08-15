@@ -5,7 +5,7 @@ I'm a Senior Software Engineer</p>
 <h3>👨‍💻 Skills</h3>
 
 * 12+ years Delphi development. 
-* Video recording (Direct Show), video capture (Media Foundation).
+* Video recording (Direct Show) and video capture (Media Foundation) development.
 * Unit testing. 
 * Front end development.
 * API protocol development.  
