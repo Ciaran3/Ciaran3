@@ -34,7 +34,7 @@ I'm a Senior Software Engineer</p>
 
 <h3>📫 Contact me</h3>
 
-* Email <a href="mailto:ciaran3.dev@gmail.com">✉️</a></p>
+* <a href="mailto:ciaran3.dev@gmail.com">Email ✉️</a></p>
 
 
 <!---
