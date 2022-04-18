@@ -4,8 +4,8 @@ I'm a Senior Software Engineer</p>
 
 <h3>👨‍💻 Skills</h3>
 
-* 12+ years Delphi development. 
-* Video recording (Direct Show) and video capture (Media Foundation) development.
+* 13+ years software development experience. (Delphi, Object Pascal) 
+* Video recording and video capture development. (Media Foundation and Direct Show)
 * Unit testing. 
 * Front end development.
 * API protocol development.  
@@ -14,7 +14,7 @@ I'm a Senior Software Engineer</p>
 <h3>👀 Interested in</h3> 
 
 * Delphi
-* Blockchain technology, Cardano specifically.
+* Blockchain technology (Cardano).
 * Video rendering, playback and capture.
 
 <h3>🔧 Technologies & Tools</h3>
