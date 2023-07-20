@@ -4,7 +4,7 @@ I'm a Senior Software Engineer</p>
 
 <h3>👨‍💻 Skills</h3>
 
-* 13+ years software development experience. (Delphi, Object Pascal) 
+* 15+ years software development experience. (Delphi, Object Pascal) 
 * Video recording and video capture development. (Media Foundation and Direct Show)
 * Unit testing. 
 * Front end development.
